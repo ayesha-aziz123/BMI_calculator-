@@ -1,1 +1,2 @@
-# BMI_Calculator With Inquirer 
+# BMI_Calculator 
+NMI calculator with Inquirer and chalk
